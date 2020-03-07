@@ -3,6 +3,7 @@
     "build": "tailwindcss build styles.css -o build.css"
   },
   "dependencies": {
+    "mustache": "^4.0.0",
     "tailwindcss": "^1.2.0"
   }
 }

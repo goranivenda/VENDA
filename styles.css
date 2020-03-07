@@ -3,3 +3,26 @@
 @tailwind components;
 
 @tailwind utilities;
+
+body {
+    font-family: 'Noto Sans', sans-serif;
+
+}
+
+.header {
+    background-image:  url("imgs/intro.png");
+    width: 100%;
+    height: 70vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.grow {
+    
+    background: linear-gradient(rgba(0, 0, 0, 1), rgb(0, 0, 0, 0));
+}
+
+.key {
+    width: 70%;
+    margin: 0 auto;
+}
